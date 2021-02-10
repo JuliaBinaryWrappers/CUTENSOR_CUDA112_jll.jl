@@ -1,0 +1,26 @@
+[[CUTENSOR_CUDA112]]
+arch = "x86_64"
+git-tree-sha1 = "87ff4afd12dd07e085ead077f7465b365134a6f1"
+libc = "glibc"
+os = "linux"
+
+    [[CUTENSOR_CUDA112.download]]
+    sha256 = "04aa433d4dba21b0cf383eb95abbe3f24b7fe0e294857ef016ce78cd43ebdd13"
+    url = "https://github.com/JuliaBinaryWrappers/CUTENSOR_CUDA112_jll.jl/releases/download/CUTENSOR_CUDA112-v1.2.2+0/CUTENSOR_CUDA112.v1.2.2.x86_64-linux-gnu.tar.gz"
+[[CUTENSOR_CUDA112]]
+arch = "powerpc64le"
+git-tree-sha1 = "6afff0c4f0deafc1038fa79f17a753b6ef1bc854"
+libc = "glibc"
+os = "linux"
+
+    [[CUTENSOR_CUDA112.download]]
+    sha256 = "694873de718b67c845557bd67fa9ef1175881eab12ccd14ee369b16d776adcdc"
+    url = "https://github.com/JuliaBinaryWrappers/CUTENSOR_CUDA112_jll.jl/releases/download/CUTENSOR_CUDA112-v1.2.2+0/CUTENSOR_CUDA112.v1.2.2.powerpc64le-linux-gnu.tar.gz"
+[[CUTENSOR_CUDA112]]
+arch = "x86_64"
+git-tree-sha1 = "2c2d0de31f53881c966ab183284e32bf1afbf891"
+os = "windows"
+
+    [[CUTENSOR_CUDA112.download]]
+    sha256 = "17ac6d40e24b7b6f55947c9026ff796b77c166cf1285a7c375060ac1dfdc4326"
+    url = "https://github.com/JuliaBinaryWrappers/CUTENSOR_CUDA112_jll.jl/releases/download/CUTENSOR_CUDA112-v1.2.2+0/CUTENSOR_CUDA112.v1.2.2.x86_64-w64-mingw32.tar.gz"
